@@ -4,7 +4,7 @@
   {% assign icon_color = "#24292e" %}
 {% endif %}
 
-{% assign content = page.content %}
+{% assign content = content %}
 
 {% assign posts_total = site.posts | size %}
 
@@ -12,7 +12,7 @@
 
 {% if page.path contains '_posts' %}
   {% assign page_title = page.title %}
-  {% assign meta_description = page.content | strip_html | strip_newlines | xml_escape | truncate: 300 %}
+  {% assign meta_description = content | strip_html | strip_newlines | xml_escape | truncate: 300 %}
 {% else %}
   {% assign page_title = user.name %}
   {% assign meta_description = user.bio | strip_html | strip_newlines | xml_escape | truncate: 300 %}
@@ -29,5 +29,6 @@
     <meta property="og:description" content="{{ meta_description }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="{{ "/assets/styles.css" | relative_url }}" rel="stylesheet" type="text/css">
+    <script src="https://kit.fontawesome.com/7edf581b41.js" crossorigin="anonymous"></script>
   </head>
   <body class="bg-white min-height-full" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% endif %}>

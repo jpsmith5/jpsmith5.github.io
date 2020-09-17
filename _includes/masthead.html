@@ -4,19 +4,23 @@
   {% assign metadata_styles = 'd-flex flex-items-center mb-3' %}
 {% endif %}
 
-<img src="{{ user.avatar_url }}" class="circle mb-3" style="max-width: 150px;">
-<h1 class="{% if site.style == 'dark' %}text-white{% endif %} mb-2 lh-condensed">{% if user.name %}{{ user.name }}{% else %}{{ user.login }}{% endif %}</h1>
+{% assign personal_name = "Jason Smith" %}
+{% assign personal_user = "jpsmith5" %}
+{% assign personal_avatar = "https://avatars3.githubusercontent.com/u/29147871?s=460&u=71acaa9b39fd2b5a2ea91b2753f1df95783c549d&v=4" %}
+
+<img src="{{ personal_avatar }}" class="circle mb-3" style="max-width: 150px;">
+<h1 class="{% if site.style == 'dark' %}text-white{% endif %} mb-2 lh-condensed">{% if personal_name %}{{ personal_name }}{% else %}{{ personal_user }}{% endif %}</h1>
 <p class="mb-3 f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
   {{ user.bio }}
 </p>
 
 {% if include.metadata %}
   <div class="f4 mb-6">
-    {% if user.name %}
+    {% if personal_name %}
       <div class="{{ metadata_styles }}">
         {% octicon mark-github height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
-        <a href="https://github.com/{{ user.login }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-          @{{ user.login }}
+        <a href="https://github.com/{{ personal_user }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+          @{{ personal_user }}
         </a>
       </div>
     {% endif %}

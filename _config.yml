@@ -5,8 +5,16 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
+  - jekyll-commonmark
+  - jekyll-commonmark-ghpages
 
 permalink: /:year/:month/:day/:title/
+
+markdown: CommonMarkGhPages
+
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
 defaults:
   -
@@ -16,26 +24,122 @@ defaults:
     values:
       layout: "post"
 
+repository: databio/pepatac
+
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
     archived: false
     forks: true
     projects:
-    # - repo-name
+      - bedhost
+      - bedbase
+      - bbconf
+      - atherocluster
+      - bedbuncher
+      - yacman
+      - aml_e3999
+      - sciquill
+      - glass_aml_rrbs
+      - dnameth_pipelines
+      - bedshift_sciquill
+      - region-tinder
+      - bulker
+      - bedshift_paper
+      - bedshift
+      - episcall
+      - bedshift_analysis
+      - cocoa_workshop_bioc2020
+      - folderfun
+      - projectInit
+      - Rplugins
+      - cellranger_analysis
+      - open-data-registry
+      - LOLAHema_PEP
+      - bedmaker
+      - henge
+      - bedlifter
+      - databio_genomes
+      - AIList
+      - IGD
+      - scripts
+      - GenomicDistributions_benchmarks
+      - MIRA
+      - rigd
+      - iGD_old
+      - cphg_miller_atac_analysis
+      - modulefiles
+      - lucidoc
+      - logmuse
+      - bulkerhenge
+      - LOLAEwS-DB
+      - regions2vectors
+      - example_python_package
+      - cellSpecificOpenChromatin
+      - simpleCache
+      - outlines
+      - twitbots
+      - rrbs_vignette
+      - example_python_CLI
+      - episb-provider
+      - ref_decoy
+      - loadr
+      - pigmy
+      - example_pyc_extension
+      - pararead
+      - ews_rloops
+      - LOLAweb
+      - shinyBase
+      - genome-region-workshop
+      - bdshack19
+      - bioterms
+      - episb-hub
+      - Methylation_Age_Prediction
+      - epilog_paper
+      - mpfc_neurons
+      - ailist_paper
+      - rnapipe
+      - example-projects
+      - DESeqPackager
+      - epihet
+      - epigenome_compendium
+      - mC_GCB_AID
+      - RGenomeUtils
+      - neuro_epihet
+      - epilog
+      - shinyqueue
+      - RED
+      - ews_patients
+      - example_analysis
+      - chimeraclust
+      - myeloid_differentiation
+      - scExprViz
+      - bds_hackathon
+      - open_pipelines
+      - mitodyn
+      - kipnis_rrbs
+      - bsread
+      - ratbrain
+      - pipelines
+      - scrna
+      - MIRA_Applications
+      - HiChIP-pipeline
+      - ews_hichip
+      - BSInfoDepth
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  docker: jpsmith5
+  linkedin: jason-smith-55b4b0a8
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -43,16 +147,18 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: http://databio.org/
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Academic history
+    web_url: academic
+    image_url: fa-graduation-cap
 
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Work history
+    web_url: work
+    image_url: fa-briefcase
+    
+  - name: Publications
+    web_url: pub
+    image_url: fa-newspaper

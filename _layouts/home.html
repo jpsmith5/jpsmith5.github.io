@@ -38,11 +38,30 @@
           </div>
         {% endunless %}
 
-        {% include projects.html %}
-
-        {% if site.topics %}
-          {% include interests.html %}
-        {% endif %}
+        <div>
+            <h2 id="bio">Bio</h2>
+                <p>Hi there! I'm Jason, and I am currently pursuing my doctorate in <a href="https://bmg.med.virginia.edu/">biochemistry and molecular genetics at the University of Virginia</a>.  This is the furthest north I've lived as I've spent most of my life between Florida and the Carolinas (both North and South) with a brief stint in Houston, TX.  I have a range of research experience where I began undergraduate at <a href="http://www.ncsu.edu/">North Carolina State University</a> studying biology with a goal of pursuing veterinary medicine.  Some time spent working with veterinarians and some experience doing lab-based research pushed me towards the research route.  </p>
+                <p>After my time at NCSU, I began work with <a href="https://www.linkedin.com/in/kevinshianna">Dr. Kevin Shianna</a> then at <a href="https://www.duke.edu/">Duke University</a>.  During my time there I had the opportunity to help drive our group's entry into next-gen sequencing which brought me into the world of bioinformatics and big-data driven analyses.  </p>
+                <p>Because I am enamored by perhaps <em>too</em> many things, I wanted to pursue an undergraduate aspiration in the marine sciences as I've always been fascinated by life in extreme environments.  That brought me to obtaining a <a href="http://marinebiology.cofc.edu/">M.S. in Marine Biology at the College of Charleston</a> where I worked with an <a href="https://genome.jgi.doe.gov/Fracy1/Fracy1.home.html">extremeophile</a>.  </p>
+                <p>Life, and my now wife, brought me to Virginia where I began <a href="http://faculty.virginia.edu/kesterlab/">working in human health and disease</a> again which helped me realize my passion for this field.  Thanks to that experience I knew it was time to pursue the doctorate so I could ultimately drive my own research program.  Thanks to that early experience computationally at Duke, and the opportunity presented by my mentor at UVA, <a href="http://databio.org/nathan_sheffield/">Dr. Nathan Sheffield</a>, I'm focusing my work nearly exclusively in the realm of computational biology while I pursue my Ph.D.  Our group is interested in the gene regulation, chromatin structure, and epigenetic regulation of disease, particularly the epigenetic regulation (or dysregulation) present in many cancers.  We both design tools and apply such tools and others to answer biologically-driven questions. <a href="http://databio.org/research/">Go check out the work the databio team performs</a>!</p>
+                <p><i class="fa fa-envelope"></i> Reach out to me at <script type="text/javascript">
+                <!-- Begin
+                user = "jasonsmith";
+                domain = "virginia.edu";
+                document.write('<a href=\"mailto:' + user + '@' + domain + '\">' + 
+                            user + '@' + domain + '</a>');
+                // End -->
+                </script> if you want to chat or ask a question! </p>
+        </div>
+        <div>      
+          {% if site.topics %}
+            {% include interests.html %}
+          {% endif %} 
+        </div>
+      
+        <div>
+          {% include projects.html %}
+        </div>
 
         {% unless posts_total == 0 %}
           {% include thoughts.html %}
