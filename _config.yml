@@ -12,6 +12,8 @@ permalink: /:year/:month/:day/:title/
 
 markdown: CommonMarkGhPages
 
+# github: [metadata]
+
 commonmark:
   options: ["SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
