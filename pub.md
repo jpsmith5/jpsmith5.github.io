@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Publications
+title: "Publications"
 ---
 
 - Fox T, **Smith JP**, Keppley LW, Keller S, Walker S, Gademsey A, Kester, M. Nervonic acid limits weight gain in a mouse model of diet-induced obesity. The FASEB Journal (forthcoming). doi:10.1096/fj.202000525R
 
-- Lawson JT, **Smith JP**, Bekiranov S, et al. COCOA: coordinate covariation analysis of epigenetic heterogeneity. Genome Biol 21, 240 (2020). https://doi.org/10.1186/s13059-020-02139-4
+- Lawson JT, **Smith JP**, Bekiranov S, Garrett-Bakelman FE, Sheffield NC. COCOA: coordinate covariation analysis of epigenetic heterogeneity. [Genome Biol. 2020;21(1):240. Published 2020 Sep 7. doi:10.1186/s13059-020-02139-4](https://doi.org/10.1186/s13059-020-02139-4)
 
 - **Smith JP**, Sheffield NC. Analytical approaches for ATAC-seq data analysis. [*Current Protocols in Human Genetics*. 2020 June 15. doi: 10.1002/cphg.101](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cphg.101)
 
@@ -27,8 +27,7 @@ Heinzen EL, Need AC, Ruzzo EK, Singh A, Campbell CR, Hong LK, Lornsen KA, McKenz
 NL, Hoover-Fong JE, Milner JD, Ottman R, Haynes BF, Goedert JJ, Goldstein DB. The characterization 
 of twenty sequenced human genomes. [*PLoS Genet.* 2010 Sep 9;6(9).](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1001111)
 
-- Sobreira NL, Cirulli ET, Avramopoulos D, Wohler E, Oswald GL, Stevens EL, Ge D, Shianna KV, **Smith 
-JP**, Maia JM, Gumbs CE, Pevsner J, Thomas G, Valle D, Hoover-Fong JE, Goldstein DB. Whole-genome 
+- Sobreira NL, Cirulli ET, Avramopoulos D, Wohler E, Oswald GL, Stevens EL, Ge D, Shianna KV, **Smith JP**, Maia JM, Gumbs CE, Pevsner J, Thomas G, Valle D, Hoover-Fong JE, Goldstein DB. Whole-genome 
 sequencing of a single proband together with linkage analysis identifies a Mendelian disease gene. 
 [*PLoS Genet.* 2010 Jun 17;6(6):e1000991.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000991)
 
@@ -45,18 +44,17 @@ syndromes. [*Am J Hum Genet.* 2010 May 14;86(5):707-18.](https://www.sciencedire
 Center for HIV/AIDS Vaccine Immunology (CHAVI). Screening the human exome: a comparison of 
 whole genome and whole transcriptome sequencing. [*Genome Biol.* 2010;11(5):R57.](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-5-r57)
 
-- Fellay J, Ge D, Shianna KV, Colombo S, Ledergerber B, Cirulli ET, Urban TJ, Zhang K, Gumbs CE, **Smith 
-JP**, Castagna A, Cozzi-Lepri A, De Luca A, Easterbrook P, Günthard HF, Mallal S, Mussini C, Dalmau J, Martinez-Picado J, Miro JM, Obel N, Wolinsky SM, Martinson JJ, Detels R, Margolick JB, Jacobson LP, 
+- Fellay J, Ge D, Shianna KV, Colombo S, Ledergerber B, Cirulli ET, Urban TJ, Zhang K, Gumbs CE, **Smith JP**, Castagna A, Cozzi-Lepri A, De Luca A, Easterbrook P, Günthard HF, Mallal S, Mussini C, Dalmau J, Martinez-Picado J, Miro JM, Obel N, Wolinsky SM, Martinson JJ, Detels R, Margolick JB, Jacobson LP, 
 Descombes P, Antonarakis SE, Beckmann JS, O'Brien SJ, Letvin NL, McMichael AJ, Haynes BF, 
 Carrington M, Feng S, Telenti A, Goldstein DB; NIAID Center for HIV/AIDS Vaccine Immunology 
 (CHAVI). Common genetic variation and the control of HIV-1 in humans. [*PLoS Genet.* 2009 
 Dec;5(12):e1000791.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000791)
 
-- Fuhrman LE, Goel AK, Smith J, Shianna KV, Aballay A. Nucleolar proteins suppress Caenorhabditis 
-elegans innate immunity by inhibiting p53/CEP-1. *PLoS Genet.* 2009 Sep;5(9):e1000657.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000657)
+- Fuhrman LE, Goel AK, **Smith J**, Shianna KV, Aballay A. Nucleolar proteins suppress Caenorhabditis 
+elegans innate immunity by inhibiting p53/CEP-1. [*PLoS Genet.* 2009 Sep;5(9):e1000657.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000657)
 
 - Fellay J, Shianna KV, Ge D, Colombo S, Ledergerber B, Weale M, Zhang K, Gumbs C, Castagna A, 
 Cossarizza A, Cozzi-Lepri A, De Luca A, Easterbrook P, Francioli P, Mallal S, Martinez-Picado J, Miro 
-JM, Obel N, Smith JP, Wyniger J, Descombes P, Antonarakis SE, Letvin NL, McMichael AJ, Haynes BF, 
+JM, Obel N, **Smith JP**, Wyniger J, Descombes P, Antonarakis SE, Letvin NL, McMichael AJ, Haynes BF, 
 Telenti A, Goldstein DB. A whole-genome association study of major determinants for host control 
 of HIV-1. [*Science.* 2007 Aug 17;317(5840):944-7.](http://science.sciencemag.org/content/317/5840/944.long)

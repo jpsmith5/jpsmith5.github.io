@@ -1,20 +1,16 @@
 ---
 layout: default
-title: ""
----
-
-# ACADEMIC HISTORY
+title: "ACADEMIC HISTORY"
 ---
 
 ## EDUCATION  
 
 - [Ph.D, Biochemistry & Mol. Genetics, University of Virginia](https://bmg.med.virginia.edu/), *in progress*
 - [M.S., Marine Biology, College of Charleston](http://marinebiology.cofc.edu/), 2014 | 4.0 GPA
-    - *Thesis: Effects of Irradiance Levels on the Expression of Ice-Binding Proteins in the Sea-Ice Diatom, Fragilariopsis cylindrus* 
+    - *Thesis: Effects of Irradiance Levels on the Expression of Ice-Binding Proteins in the Sea-Ice Diatom, Fragilariopsis cylindrus*
 - Post Bacc Studies Non-Degree, North Carolina State University
-    - Intro to C++, Intro to Java, Programming Concepts in C++, 2008–2009 | 9 hr  
+    - Intro to C++, Intro to Java, Programming Concepts in C++, 2008–2009 | 9 hr
 - [B.S., Biology](https://bio.sciences.ncsu.edu/undergraduate/degree-programs/biological-sciences-bs/), [*Summa Cum Laude*](http://catalog.ncsu.edu/undergraduate/academicpoliciesandprocedures/status/academichonors/), North Carolina State University,  2004 | 4.0 GPA  
-<br><br/>
 
 ## HONORS/ORGANIZATIONS/AWARDS  
 
@@ -25,8 +21,6 @@ title: ""
 - [Phi Beta Kappa](https://www.pbk.org/) 2004
 - [Phi Kappa Phi](https://www.phikappaphi.org/) 2004
 - [Gamma Beta Phi](https://www.gammabetaphi.org/) 2003
-- [Dean’s List, North Carolina State University](https://studentservices.ncsu.edu/your-grades/deans-list/) 2000 – 2004  
-<br><br/>
 
 ## PROFESSIONAL MEMBERSHIPS  
 
