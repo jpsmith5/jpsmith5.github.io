@@ -3,7 +3,7 @@ layout: default
 title: "Publications"
 ---
 
-- Fox T, **Smith JP**, Keppley LW, Keller S, Walker S, Gademsey A, Kester, M. Nervonic acid limits weight gain in a mouse model of diet-induced obesity. The FASEB Journal (forthcoming). doi:10.1096/fj.202000525R
+- Keppley LW,  Walker S, Gademsey A, **Smith JP**,  Keller S, Kester, M, Fox T. Nervonic acid limits weight gain in a mouse model of diet-induced obesity. [The FASEB Journal 2020 September 22. doi:10.1096/fj.202000525R](https://faseb.onlinelibrary.wiley.com/doi/10.1096/fj.202000525R)
 
 - Lawson JT, **Smith JP**, Bekiranov S, Garrett-Bakelman FE, Sheffield NC. COCOA: coordinate covariation analysis of epigenetic heterogeneity. [Genome Biol. 2020;21(1):240. Published 2020 Sep 7. doi:10.1186/s13059-020-02139-4](https://doi.org/10.1186/s13059-020-02139-4)
 
