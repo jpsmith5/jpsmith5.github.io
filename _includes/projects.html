@@ -27,6 +27,7 @@
   {% endfor %}
   
   {% for repository in site.github.public_repositories %}
+    <p>repository: {{repository}}</p>
     {% if site.repositories contains repository.name %}
       <div class="col-sm-6 col-md-12 col-lg-6 col-xl-4 mb-3">
         {% include repo-card.html %}
