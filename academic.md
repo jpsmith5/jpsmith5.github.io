@@ -10,7 +10,7 @@ title: "ACADEMIC HISTORY"
     - *Thesis: Effects of Irradiance Levels on the Expression of Ice-Binding Proteins in the Sea-Ice Diatom, Fragilariopsis cylindrus*
 - Post Bacc Studies Non-Degree, North Carolina State University
     - Intro to C++, Intro to Java, Programming Concepts in C++, 2008–2009 | 9 hr
-- [B.S., Biology](https://bio.sciences.ncsu.edu/undergraduate/degree-programs/biological-sciences-bs/), [*Summa Cum Laude*](http://catalog.ncsu.edu/undergraduate/academicpoliciesandprocedures/status/academichonors/), North Carolina State University,  2004 | 4.0 GPA  
+- [B.S., Biology](https://bio.sciences.ncsu.edu/undergraduate/degree-programs/biological-sciences-bs/), [*Summa Cum Laude*](http://catalog.ncsu.edu/undergraduate/academic-policies-procedures/student-status-honors/academic-honors/), North Carolina State University,  2004 | 4.0 GPA  
 
 ## HONORS/ORGANIZATIONS/AWARDS  
 
