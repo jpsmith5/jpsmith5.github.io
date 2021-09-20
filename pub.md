@@ -3,9 +3,13 @@ layout: default
 title: "Publications"
 ---
 
-- Keppley LW,  Walker S, Gademsey A, **Smith JP**,  Keller S, Kester, M, Fox T. Nervonic acid limits weight gain in a mouse model of diet-induced obesity. [The FASEB Journal 2020 September 22. doi:10.1096/fj.202000525R](https://faseb.onlinelibrary.wiley.com/doi/10.1096/fj.202000525R)
+- Gharavi E, Gu A, Zheng G, **Smith JP**, Cho HJ, Zhang A, Brown DE, Sheffield NC. Embeddings of genomic region sets capture rich biological associations in lower dimensions.  [*Bioinformatics*, 2021;, btab439, https://doi.org/10.1093/bioinformatics/btab439.](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab439/6307720?login=true)
 
-- Lawson JT, **Smith JP**, Bekiranov S, Garrett-Bakelman FE, Sheffield NC. COCOA: coordinate covariation analysis of epigenetic heterogeneity. [Genome Biol. 2020;21(1):240. Published 2020 Sep 7. doi:10.1186/s13059-020-02139-4](https://doi.org/10.1186/s13059-020-02139-4)
+- **Smith JP**, Dutta AB, Sathyan KM, Guertin MJ, Sheffield NC. PEPPRO: quality control and processing of nascent RNA profiling data. [*Genome Biol.* 22, 155 (2021). https://doi.org/10.1186/s13059-021-02349-4.](https://doi.org/10.1186/s13059-021-02349-4)
+
+- Keppley LW,  Walker S, Gademsey A, **Smith JP**,  Keller S, Kester, M, Fox T. Nervonic acid limits weight gain in a mouse model of diet-induced obesity. [*The FASEB Journal* 2020 September 22. doi:10.1096/fj.202000525R](https://faseb.onlinelibrary.wiley.com/doi/10.1096/fj.202000525R)
+
+- Lawson JT, **Smith JP**, Bekiranov S, Garrett-Bakelman FE, Sheffield NC. COCOA: coordinate covariation analysis of epigenetic heterogeneity. [*Genome Biol.* 2020;21(1):240. Published 2020 Sep 7. doi:10.1186/s13059-020-02139-4](https://doi.org/10.1186/s13059-020-02139-4)
 
 - **Smith JP**, Sheffield NC. Analytical approaches for ATAC-seq data analysis. [*Current Protocols in Human Genetics*. 2020 June 15. doi: 10.1002/cphg.101](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cphg.101)
 
