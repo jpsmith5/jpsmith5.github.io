@@ -3,6 +3,10 @@ layout: default
 title: "Publications"
 ---
 
+- Kupkova K, Mosquera JV, **Smith JP**, Stolarczyk M, Danehy TL, Lawson JT, Xue B, Stubbs JT 4th, LeRoy N, Sheffield NC. GenomicDistributions: fast analysis of genomic intervals with Bioconductor. [*BMC Genomics*. 2022 Apr 12;23(1):299. doi: 10.1186/s12864-022-08467-y. PMID: 35413804; PMCID: PMC9003978](https://pubmed.ncbi.nlm.nih.gov/35413804/).
+
+- **Smith JP**, Corces MR, Xu J, Reuter VP, Chang HY, Sheffield NC. PEPATAC: an optimized pipeline for ATAC-seq data analysis with serial alignments. [*NAR Genom Bioinform*. 2021 Nov 23;3(4):lqab101. doi: 10.1093/nargab/lqab101. PMID: 34859208; PMCID: PMC8632735](https://pubmed.ncbi.nlm.nih.gov/34859208/).
+
 - Gharavi E, Gu A, Zheng G, **Smith JP**, Cho HJ, Zhang A, Brown DE, Sheffield NC. Embeddings of genomic region sets capture rich biological associations in lower dimensions.  [*Bioinformatics*, 2021;, btab439, https://doi.org/10.1093/bioinformatics/btab439.](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab439/6307720?login=true)
 
 - **Smith JP**, Dutta AB, Sathyan KM, Guertin MJ, Sheffield NC. PEPPRO: quality control and processing of nascent RNA profiling data. [*Genome Biol.* 22, 155 (2021). https://doi.org/10.1186/s13059-021-02349-4.](https://doi.org/10.1186/s13059-021-02349-4)
