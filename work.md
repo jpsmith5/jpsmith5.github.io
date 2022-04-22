@@ -5,6 +5,15 @@ title: "WORK HISTORY"
 
 ## ACADEMIC AND RESEARCH EXPERIENCE
 
+**PhD Student/Candidate**, Department of Biochemistry & Molecular Genetics
+*University of Virginia, Charlottesville, VA*  
+ \[06/2017 – 06/2022\] 
+ 
+ - Developed Python and R based pipelines for nascent RNA sequencing and ATAC-seq analysis
+ - Developed algorithms for region based annotation and clustering
+ - Developed bioinformatic infrastructure to aid genome analyses
+ - Integrated single-cell RNA-seq and ATAC-seq to study renin cell biology
+
 **Lab Specialist I**, Department of Pharmacology  
 *University of Virginia, Charlottesville, VA*  
  \[08/2015 – 06/2017\] 
