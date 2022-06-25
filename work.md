@@ -5,6 +5,14 @@ title: "WORK HISTORY"
 
 ## ACADEMIC AND RESEARCH EXPERIENCE
 
+**Senior Scientist - Bioinformatician**, Department of Pediatrics
+*University of Virginia, Charlottesville, VA*  
+ \[06/2022 –\]
+ 
+  - Design and implement tools for epigenetic analysis of the transcriptome and accessibilome
+  - Design experiments to investigate renal cell biology
+  - Analyze multiomics data related to kidney development and disease
+
 **PhD Student/Candidate**, Department of Biochemistry & Molecular Genetics
 *University of Virginia, Charlottesville, VA*  
  \[06/2017 – 06/2022\] 
