@@ -3,6 +3,8 @@ layout: default
 title: "Publications"
 ---
 
+- Duvall E, Benitez CM, Tellez K, Enge M, Pauerstein PT, Li L, Baek S, Quake SR, **Smith JP**, Sheffield NC, Kim SK, Arda HE. Single-cell transcriptome and accessible chromatin dynamics during endocrine pancreas development. [Proc Natl Acad Sci U S A. 2022 Jun 28;119(26):e2201267119. doi: 10.1073/pnas.2201267119. Epub 2022 Jun 22. PMID: 35733248](https://pubmed.ncbi.nlm.nih.gov/35733248/).
+
 - Kupkova K, Mosquera JV, **Smith JP**, Stolarczyk M, Danehy TL, Lawson JT, Xue B, Stubbs JT 4th, LeRoy N, Sheffield NC. GenomicDistributions: fast analysis of genomic intervals with Bioconductor. [*BMC Genomics*. 2022 Apr 12;23(1):299. doi: 10.1186/s12864-022-08467-y. PMID: 35413804; PMCID: PMC9003978](https://pubmed.ncbi.nlm.nih.gov/35413804/).
 
 - **Smith JP**, Corces MR, Xu J, Reuter VP, Chang HY, Sheffield NC. PEPATAC: an optimized pipeline for ATAC-seq data analysis with serial alignments. [*NAR Genom Bioinform*. 2021 Nov 23;3(4):lqab101. doi: 10.1093/nargab/lqab101. PMID: 34859208; PMCID: PMC8632735](https://pubmed.ncbi.nlm.nih.gov/34859208/).
