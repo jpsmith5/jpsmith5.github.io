@@ -6,6 +6,7 @@ title: "ACADEMIC HISTORY"
 ## EDUCATION  
 
 - [Ph.D, Biochemistry & Mol. Genetics, University of Virginia](https://bmg.med.virginia.edu/), 2022
+    - - *Thesis: Tool Development and Computational Analysis of Chromatin with Applications to Renin Cell Biology* 
 - [M.S., Marine Biology, College of Charleston](http://marinebiology.cofc.edu/), 2014 | 4.0 GPA
     - *Thesis: Effects of Irradiance Levels on the Expression of Ice-Binding Proteins in the Sea-Ice Diatom, Fragilariopsis cylindrus*
 - Post Bacc Studies Non-Degree, North Carolina State University
