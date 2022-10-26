@@ -5,7 +5,7 @@ title: "ACADEMIC HISTORY"
 
 ## EDUCATION  
 
-- [Ph.D, Biochemistry & Mol. Genetics, University of Virginia](https://bmg.med.virginia.edu/), *in progress*
+- [Ph.D, Biochemistry & Mol. Genetics, University of Virginia](https://bmg.med.virginia.edu/), 2022
 - [M.S., Marine Biology, College of Charleston](http://marinebiology.cofc.edu/), 2014 | 4.0 GPA
     - *Thesis: Effects of Irradiance Levels on the Expression of Ice-Binding Proteins in the Sea-Ice Diatom, Fragilariopsis cylindrus*
 - Post Bacc Studies Non-Degree, North Carolina State University
@@ -14,6 +14,7 @@ title: "ACADEMIC HISTORY"
 
 ## HONORS/ORGANIZATIONS/AWARDS  
 
+- [Cell and Molecular Biology Training Grant](https://med.virginia.edu/cell-and-molecular-biology/) 2019 - 2021
 - [Slocum-Lunz Foundation Award](http://slocum-lunz.org/) 2013
 - [Summer Research Award](http://marinebiology.cofc.edu/current-students/funding/index.php#a1) 2013
 - [Marine Genomics Award](http://marinebiology.cofc.edu/current-students/marine-genomics/index.php) 2010 – 2012
