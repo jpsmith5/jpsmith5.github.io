@@ -3,6 +3,10 @@ layout: default
 title: "Publications"
 ---
 
+- **Smith JP**, Sequeira-Lopez MLS, Gomez RA. A novel role for the histone modifier PRDM6 and an opportunity to understand hypertension. Kidney Int. 2023 May 24:S0085-2538(23)00385-X. doi: 10.1016/j.kint.2023.05.012. Epub ahead of print. PMID: 37236422.
+
+- Martini AG, **Smith JP**, Medrano S, Sheffield NC, Sequeira-Lopez MLS, Gomez RA. Determinants of renin cell differentiation: a single cell epi-transcriptomics approach. bioRxiv [Preprint]. 2023 Jan 20:2023.01.18.524595. doi: 10.1101/2023.01.18.524595. PMID: 36711565; PMCID: PMC9882312.
+
 - Morris BB, **Smith JP**, Zhang Q, Jiang Z, Hampton OA, Churchman ML, Arnold SM, Owen DH, Gray JE, Dillon PM, Soliman HH, Stover DG, Colman H, Chakravarti A, Shain KH, Silva AS, Villano JL, Vogelbaum MA, Borges VF, Akerley WL, Gentzler RD, Hall RD, Matsen CB, Ulrich CM, Post AR, Nix DA, Singer EA, Larner JM, Stukenberg PT, Jones DR, Mayo MW. Replicative Instability Drives Cancer Progression. [Biomolecules. 2022; 12(11):1570. https://doi.org/10.3390/biom12111570](https://doi.org/10.3390/biom12111570)
 
 - Duvall E, Benitez CM, Tellez K, Enge M, Pauerstein PT, Li L, Baek S, Quake SR, **Smith JP**, Sheffield NC, Kim SK, Arda HE. Single-cell transcriptome and accessible chromatin dynamics during endocrine pancreas development. [Proc Natl Acad Sci U S A. 2022 Jun 28;119(26):e2201267119. doi: 10.1073/pnas.2201267119. Epub 2022 Jun 22. PMID: 35733248](https://pubmed.ncbi.nlm.nih.gov/35733248/).
