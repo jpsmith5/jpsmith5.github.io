@@ -3,7 +3,9 @@ layout: default
 title: "Publications"
 ---
 
-- **Smith JP**, Sequeira-Lopez MLS, Gomez RA. A novel role for the histone modifier PRDM6 and an opportunity to understand hypertension. Kidney Int. 2023 May 24:S0085-2538(23)00385-X. doi: 10.1016/j.kint.2023.05.012. Epub ahead of print. PMID: 37236422.
+- Martini AG, **Smith JP**, Medrano S, Finer G, Sheffield NC, Sequeira-Lopez MLS, Gomez RA. Renin Cell Development: Insights From Chromatin Accessibility and Single-Cell Transcriptomics. [Circulation Research. 2023 3 Jul 2023. doi: 10.1161/CIRCRESAHA.123.322827.](https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.123.322827)
+
+- **Smith JP**, Sequeira-Lopez MLS, Gomez RA. A novel role for the histone modifier PRDM6 and an opportunity to understand hypertension. [Kidney Int. 2023 May 24:S0085-2538(23)00385-X. doi: 10.1016/j.kint.2023.05.012. Epub ahead of print. PMID: 37236422.](https://www.sciencedirect.com/science/article/pii/S008525382300385X?via%3Dihub)
 
 - Martini AG, **Smith JP**, Medrano S, Sheffield NC, Sequeira-Lopez MLS, Gomez RA. Determinants of renin cell differentiation: a single cell epi-transcriptomics approach. bioRxiv [Preprint]. 2023 Jan 20:2023.01.18.524595. doi: 10.1101/2023.01.18.524595. PMID: 36711565; PMCID: PMC9882312.
 
