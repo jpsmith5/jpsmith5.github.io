@@ -62,18 +62,22 @@
       
         <div>
           <!--{% include projects.html %}-->
-          <div class="github-card" data-github="databio/pepatac" data-width="250" data-height="" data-theme="default"></div>
-          <div class="github-card" data-github="databio/peppro" data-width="250" data-height="" data-theme="default"></div>
-          <div class="github-card" data-github="databio/awesome-atac-analysis" data-width="250" data-height="" data-theme="default"></div>
-          <div class="github-card" data-github="databio/GenomicDistributions" data-width="250" data-height="" data-theme="default"></div>
-          <div class="github-card" data-github="refgenie/refgenie" data-width="250" data-height="" data-theme="default"></div>
-          <div class="github-card" data-github="databio/COCOA" data-width="250" data-height="" data-theme="default"></div>
-          <div class="github-card" data-github="jpsmith5/renin_analysis" data-width="250" data-height="" data-theme="default"></div>
-          <div class="github-card" data-github="jpsmith5/as4.1_analysis" data-width="250" data-height="" data-theme="default"></div>
-          <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+          <h2 {% if site.style == 'dark' %}class="text-white"{% endif %}>GitHub Repositories</h2>
+          <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Some GitHub repositories where I'm a creator or contributor.</p>
+          <div class="d-sm-flex flex-wrap gutter-condensed mb-4">
+  
+            <div class="github-card" data-github="databio/pepatac" data-width="400" data-height="" data-theme="default"></div>
+            <div class="github-card" data-github="databio/peppro" data-width="400" data-height="" data-theme="default"></div>
+            <div class="github-card" data-github="databio/awesome-atac-analysis" data-width="400" data-height="" data-theme="default"></div>
+            <div class="github-card" data-github="databio/GenomicDistributions" data-width="400" data-height="" data-theme="default"></div>
+            <div class="github-card" data-github="refgenie/refgenie" data-width="400" data-height="" data-theme="default"></div>
+            <div class="github-card" data-github="databio/COCOA" data-width="400" data-height="" data-theme="default"></div>
+            <div class="github-card" data-github="jpsmith5/renin_analysis" data-width="400" data-height="" data-theme="default"></div>
+            <div class="github-card" data-github="jpsmith5/as4.1_analysis" data-width="400" data-height="" data-theme="default"></div>
+            <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+            </div>
+          
           </div>
-          
-          
 
         {% unless posts_total == 0 %}
           {% include thoughts.html %}
