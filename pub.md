@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 - LeRoy NJ, **Smith JP**, Zheng G, Rymuza J, Gharavi E, Brown DE, Zhang A, Sheffield NC. Fast clustering and cell-type annotation of scATAC data using pre-trained region embeddings. [Nuceic Acids Research Genomics and Bioinformatics. 2024. doi: https://doi.org/10.1093/nargab/lqae073.](https://apps.crossref.org/pendingpub/pendingpub.html?doi=10.1093%2Fnargab%2Flqae073)
-<span class="__dimensions_badge_embed__" data-doi="10.1093/nargab/lqae073" data-style="small_rectangle"></span>
+<div style="width: 100%;"><span class="__dimensions_badge_embed__" data-doi="10.1093/nargab/lqae073" data-style="small_rectangle"></span></div>
 
 - Martini AG, **Smith JP**, Medrano S, Finer G, Sheffield NC, Sequeira-Lopez MLS, Gomez RA. Renin Cell Development: Insights From Chromatin Accessibility and Single-Cell Transcriptomics. [Circulation Research. 2023 3 Jul 2023. doi: 10.1161/CIRCRESAHA.123.322827.](https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.123.322827)
 <span class="__dimensions_badge_embed__" data-doi="10.1161/CIRCRESAHA.123.322827" data-style="small_rectangle"></span>
