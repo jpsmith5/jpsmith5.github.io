@@ -3,6 +3,9 @@ layout: default
 title: "Publications"
 ---
 
+- **Smith JP**, Paxton R, Medrano S, Sheffield NC, Sequeira-Lopez MLS, Gomez RA. Inhibition of Renin Expression Is Regulated by an Epigenetic Switch From an Active to a Poised State. [Hypertension 2024 July. doi:10.1161/HYPERTENSIONAHA.124.22886.](https://www.ahajournals.org/doi/abs/10.1161/HYPERTENSIONAHA.124.22886)
+<span class="__dimensions_badge_embed__" data-doi="10.1161/HYPERTENSIONAHA.124.22886" data-style="small_rectangle"></span>
+
 - LeRoy NJ, **Smith JP**, Zheng G, Rymuza J, Gharavi E, Brown DE, Zhang A, Sheffield NC. Fast clustering and cell-type annotation of scATAC data using pre-trained region embeddings. [Nuceic Acids Research Genomics and Bioinformatics. Volume 6, Issue 3, September 2024, lqae073. doi: 10.1093/nargab/lqae073.](https://academic.oup.com/nargab/article/6/3/lqae073/7706488)
 <span class="__dimensions_badge_embed__" data-doi="10.1093/nargab/lqae073" data-style="small_rectangle"></span>
 
