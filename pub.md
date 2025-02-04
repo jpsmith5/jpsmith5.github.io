@@ -3,6 +3,15 @@ layout: default
 title: "Publications"
 ---
 
+- Anjum H, **Smith JP**, Martini AG, Yacu GS, Medrano S, Gomez RA, Sequeira-Lopez MLS, Quaggin SE, Finer G. Tcf21 as a founder transcription factor in specifying Foxd1 cells to the juxtaglomerular cell lineage. Am J Physiol Renal Physiol. 2025 Jan 1;328(1):F121-F130. doi: 10.1152/ajprenal.00235.2024. Epub 2024 Nov 26. PMID: 39589156.
+<span class="__dimensions_badge_embed__" data-doi="10.1152/ajprenal.00235.2024" data-style="small_rectangle"></span>
+
+- Yamaguchi M, Almeida LF, Yamaguchi H, Liang X, **Smith JP**, Medrano S, Sequeira-Lopez MLS, Gomez RA. Transformation of the Kidney into a Pathological Neuro-Immune-Endocrine Organ. Circ Res. 2024 Oct 25;135(10):1025-1027. doi: 10.1161/CIRCRESAHA.124.325305. Epub 2024 Oct 1. PMID: 39351666; PMCID: PMC11502242.
+<span class="__dimensions_badge_embed__" data-doi="10.1161/CIRCRESAHA.124.325305" data-style="small_rectangle"></span>
+
+- Medrano S, Yamaguchi M, Almeida LF, **Smith JP**, Yamaguchi H, Sigmund CD, Sequeira-Lopez MLS, Gomez RA. An efficient inducible model for the control of gene expression in renin cells. Am J Physiol Renal Physiol. 2024 Sep 1;327(3):F489-F503. doi: 10.1152/ajprenal.00129.2024. Epub 2024 Jul 11. PMID: 38991008; PMCID: PMC11460331.
+<span class="__dimensions_badge_embed__" data-doi="10.1152/ajprenal.00129.2024" data-style="small_rectangle"></span>
+
 - **Smith JP**, Paxton R, Medrano S, Sheffield NC, Sequeira-Lopez MLS, Gomez RA. Inhibition of Renin Expression Is Regulated by an Epigenetic Switch From an Active to a Poised State. [Hypertension 2024 July. doi:10.1161/HYPERTENSIONAHA.124.22886.](https://www.ahajournals.org/doi/abs/10.1161/HYPERTENSIONAHA.124.22886)
 <span class="__dimensions_badge_embed__" data-doi="10.1161/HYPERTENSIONAHA.124.22886" data-style="small_rectangle"></span>
 
