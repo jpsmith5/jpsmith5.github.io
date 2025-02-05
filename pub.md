@@ -6,6 +6,9 @@ title: "Publications"
 - Anjum H, **Smith JP**, Martini AG, Yacu GS, Medrano S, Gomez RA, Sequeira-Lopez MLS, Quaggin SE, Finer G. Tcf21 as a founder transcription factor in specifying Foxd1 cells to the juxtaglomerular cell lineage. Am J Physiol Renal Physiol. 2025 Jan 1;328(1):F121-F130. doi: 10.1152/ajprenal.00235.2024. Epub 2024 Nov 26. PMID: 39589156.
 <span class="__dimensions_badge_embed__" data-doi="10.1152/ajprenal.00235.2024" data-style="small_rectangle"></span>
 
+- Nagalakshmi VK, **Smith JP**, Matsuoka D, Gomez RA, Sequeira-Lopez MLS. Piezo channels in JG cells do not regulate renin expression or renin release to the circulation. Clin Sci (Lond). 2024 Dec 4;138(23):1527-1536. doi: 10.1042/CS20242089. PMID: 39564667.
+<span class="__dimensions_badge_embed__" data-doi="10.1042/CS20242089" data-style="small_rectangle"></span>
+
 - Yamaguchi M, Almeida LF, Yamaguchi H, Liang X, **Smith JP**, Medrano S, Sequeira-Lopez MLS, Gomez RA. Transformation of the Kidney into a Pathological Neuro-Immune-Endocrine Organ. Circ Res. 2024 Oct 25;135(10):1025-1027. doi: 10.1161/CIRCRESAHA.124.325305. Epub 2024 Oct 1. PMID: 39351666; PMCID: PMC11502242.
 <span class="__dimensions_badge_embed__" data-doi="10.1161/CIRCRESAHA.124.325305" data-style="small_rectangle"></span>
 
