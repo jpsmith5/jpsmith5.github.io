@@ -3,6 +3,9 @@ layout: default
 title: "Publications"
 ---
 
+- Yamaguchi H, Guagliardo NA, Bell LA, Yamaguchi M, Matsuoka D, Xu F, **Smith JP**, Diagne M, Condron S, Medrano S, Barrett PQ, Nieh EH, Gomez RA, Sequeira-Lopez MLS. Calcium Oscillations Within Juxtaglomerular Cell Clusters Control Renin Release. Circulation Research. 2025 Sep 3. doi: 10.1161/CIRCRESAHA.125.326541.
+<span class="__dimensions_badge_embed__" data-doi="10.1161/CIRCRESAHA.125.326541" data-style="small_rectangle"></span>
+
 - Anjum H, **Smith JP**, Martini AG, Yacu GS, Medrano S, Gomez RA, Sequeira-Lopez MLS, Quaggin SE, Finer G. Tcf21 as a founder transcription factor in specifying Foxd1 cells to the juxtaglomerular cell lineage. Am J Physiol Renal Physiol. 2025 Jan 1;328(1):F121-F130. doi: 10.1152/ajprenal.00235.2024. Epub 2024 Nov 26. PMID: 39589156.
 <span class="__dimensions_badge_embed__" data-doi="10.1152/ajprenal.00235.2024" data-style="small_rectangle"></span>
 
