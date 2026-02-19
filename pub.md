@@ -3,6 +3,9 @@ layout: default
 title: "Publications"
 ---
 
+- Yamaguchi H, **Smith JP**, Guessoum O, Daga D, Yamaguchi M, Almeida LF, Matsuoka D, Watanabe H, Medrano S, Gomez RA,  Sequeira-Lopez MLS. Krüppel-like factor 2 regulates renin expression in mature juxtaglomerular cells. Am J Physiol Renal Physiol. Articles in Press. 2026 Feb 19. doi: 10.1152/ajprenal.00416.2025.
+<span class="__dimensions_badge_embed__" data-doi="10.1152/ajprenal.00416.2025" data-style="small_rectangle"></span>
+
 - Yamaguchi H, Guagliardo NA, Bell LA, Yamaguchi M, Matsuoka D, Xu F, **Smith JP**, Diagne M, Condron S, Medrano S, Barrett PQ, Nieh EH, Gomez RA, Sequeira-Lopez MLS. Calcium Oscillations Within Juxtaglomerular Cell Clusters Control Renin Release. Circulation Research. 2025 Sep 3. doi: 10.1161/CIRCRESAHA.125.326541.
 <span class="__dimensions_badge_embed__" data-doi="10.1161/CIRCRESAHA.125.326541" data-style="small_rectangle"></span>
 
