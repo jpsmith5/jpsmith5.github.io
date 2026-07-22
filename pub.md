@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 - Medrano S, Almeida LF, Zhao Z, Ruiz-Perez F, Gutierrez-Hernandez A, **Smith JP**, Yamaguchi H, Matsuoka D, Yamaguchi M, Wagamon T, Xu F, Danser AHJ, Bourne PE, Sequeira-Lopez MLS, Gomez RA. Translational uncoupling of renin synthesis and activity reveals a mechanism of kidney vascular remodeling. Clin Sci (Lond). 2026 Jul 10:CS20261291. doi: 10.1042/CS20261291. Epub ahead of print. PMID: 42438265.
-- <span class="__dimensions_badge_embed__" data-doi="10.1042/CS20261291" data-style="small_rectangle"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.1042/CS20261291" data-style="small_rectangle"></span>
 
 - Yamaguchi H, **Smith JP**, Guessoum O, Daga D, Yamaguchi M, Almeida LF, Matsuoka D, Watanabe H, Medrano S, Gomez RA,  Sequeira-Lopez MLS. Krüppel-like factor 2 regulates renin expression in mature juxtaglomerular cells. Am J Physiol Renal Physiol. Articles in Press. 2026 Feb 19. doi: 10.1152/ajprenal.00416.2025.
 <span class="__dimensions_badge_embed__" data-doi="10.1152/ajprenal.00416.2025" data-style="small_rectangle"></span>
