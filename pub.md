@@ -3,6 +3,9 @@ layout: default
 title: "Publications"
 ---
 
+- Yamaguchi M, Gyarmati G, McLaughlin L, Yamaguchi H, Smith JP, Almeida LF, Matsuoka D, Martini AG, Wilmsen SM, Hao S, Tainaka K, Medrano S, Jain S, Peti-Peterdi J, Sequeira-Lopez MLS, Gomez RA. Renin cells orchestrate a neuro-endocrine microenvironment of the kidney arterial tree in health and disease. JCI Insight. 2026 Jul 16:e197709. doi: 10.1172/jci.insight.197709. Epub ahead of print. PMID: 42479641.
+<span class="__dimensions_badge_embed__" data-doi="10.1172/jci.insight.197709" data-style="small_rectangle"></span>
+
 - Medrano S, Almeida LF, Zhao Z, Ruiz-Perez F, Gutierrez-Hernandez A, **Smith JP**, Yamaguchi H, Matsuoka D, Yamaguchi M, Wagamon T, Xu F, Danser AHJ, Bourne PE, Sequeira-Lopez MLS, Gomez RA. Translational uncoupling of renin synthesis and activity reveals a mechanism of kidney vascular remodeling. Clin Sci (Lond). 2026 Jul 10:CS20261291. doi: 10.1042/CS20261291. Epub ahead of print. PMID: 42438265.
 <span class="__dimensions_badge_embed__" data-doi="10.1042/CS20261291" data-style="small_rectangle"></span>
 
